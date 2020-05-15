@@ -1,0 +1,26 @@
+{
+    "content_status": "good",
+    "parents": [
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000077.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000197.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000163.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000051.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000173.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000176.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000076.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000072.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000095.art",
+        "dig.mu2e.IPA-Michel.MDC2018b.001002_00000005.art"
+    ],
+    "data_tier": "cnf",
+    "dh.configuration": "v0",
+    "dh.dataset": "cnf.sophie.primaryIPA.v0.fcl",
+    "dh.description": "primaryIPA",
+    "dh.owner": "sophie",
+    "dh.sequencer": "001002_00000005",
+    "dh.sha256": "69baac4f716ccc59886502658516b189255096b362063482adc9897d2e0569f2",
+    "file_format": "fcl",
+    "file_name": "cnf.sophie.primaryIPA.v0.001002_00000005.fcl",
+    "file_size": 6747,
+    "file_type": "mc"
+}
